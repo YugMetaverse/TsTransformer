@@ -9,11 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@yugmetaverse/tstransformer": "^1.0.0",
+    "i": "^0.3.7",
+    "npm": "^9.6.5",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
+    "@types/node": "^10.17.60",
     "@types/uuid": "^9.0.1",
-    "typescript": "^3.7.4",
-    "@types/node": "^10.17.60"
+    "typescript": "^3.7.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
