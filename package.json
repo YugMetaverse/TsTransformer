@@ -1,0 +1,19 @@
+{
+  "name": "yugtransformer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.1",
+    "typescript": "^3.7.4",
+    "@types/node": "^10.17.60"
+  }
+}
